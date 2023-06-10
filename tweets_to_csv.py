@@ -26,7 +26,6 @@ def process_files(directory):
     return all_data
 
 
-# directory
 directory = './tweets'
 
 data = process_files(directory)
